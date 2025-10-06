@@ -1,7 +1,7 @@
-creator_did          = ivo://reproject/P/e2ba471b-3963-4ce5-9278-13e9b2bb3e59
+creator_did          = ivo://reproject/P/19e561b6-4a87-4316-a539-7e3a1d48c5c6
 obs_title            = 
 hips_version         = 1.4
-hips_release_date    = 2025-10-06T12:06:40.228710
+hips_release_date    = 2025-10-06T13:09:36.034235
 hips_status          = public master clonableOnce
 hips_tile_format     = fits
 hips_tile_width      = 64
